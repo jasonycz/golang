@@ -1,5 +1,5 @@
 // Package tools tools
-// 参考： https://blog.csdn.net/w616589292/article/details/51078787
+// 参考: https://blog.csdn.net/w616589292/article/details/51078787
 package tools
 
 import "fmt"
